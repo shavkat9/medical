@@ -1,0 +1,48 @@
+.main__img {
+    width: 400px;
+    height: 500px;
+    margin-right: 100px;
+    margin-top: 60px;
+}
+.main__intro {
+    display: flex;
+    justify-content: center;
+}
+.main__content {
+    text-align: left;
+    margin-top: 200px;
+    font-family: 'Montserrat';
+}
+.main__hr {
+    width: 70px;
+    border-radius: 4px;
+    height: 4px;
+    margin-right: 290px;
+}
+.main__text {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+.main__para {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+.main__btn {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    background-color: transparent;
+    border: none;
+    color: #1BA0AB;
+}
+.main__icon__vec {
+    width: 8px;
+    height: 9px;
+}

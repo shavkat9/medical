@@ -1,0 +1,73 @@
+section{
+    display: flex;
+    margin: auto;
+}
+.section {
+    text-align: left;
+    margin: 200px 230px;
+    line-height: 10px;
+}
+.section__line{
+    width: 94px;
+    height: 7px;
+    background: #E74040;
+}
+.section__text{
+    width: 247px;
+    height: 50px;
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+.section__para{
+    width: 300px;
+    height: 50px;
+    border-color: 1px solid red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #737373;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+.section__button {
+    width: 100px;
+    height: 30px;
+    margin: auto;
+    padding: 0;
+    background-color: transparent;
+    text-align: left;
+    color: #1BA0AB;
+    border: none;
+    margin-top: 30px;
+}
+.section__icon {
+    width: 8px;
+    height: 9px;
+    margin-left: -25px;
+}
+/* -------------------------------- */
+.section__span__sec {
+    width: 94px;
+    height: 7px;
+    background-color: #E74040;
+}
+hr {
+    width: 44px;
+    height: 1px;
+    background-color: #E74040;
+    margin-right: 200px;
+}
+.section__offer {
+    display: flex;
+    margin: 200px 10px 10px;
+    text-align: left;
+}

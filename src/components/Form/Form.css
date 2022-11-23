@@ -1,0 +1,35 @@
+.form {
+    margin: 10px 230px 100px;
+}
+.form span {
+    color: #252B42;
+    font-size: 17px;
+    font-weight: 700;
+}
+.form__start {
+    margin: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.form p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+.form__middle .form__man {
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+.form__middle .form__content {
+    text-align: center;
+}
+.form__stars{
+    max-width: 70%;
+    margin-left: 100px;
+}
+.form__para {
+    margin-left: 20px;
+}

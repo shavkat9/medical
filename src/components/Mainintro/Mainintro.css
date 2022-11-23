@@ -1,0 +1,145 @@
+.intro__content {
+    text-align: left;
+    margin: 100px 200px;
+}
+.intro__span {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 4px;
+    letter-spacing: 0.2px;
+    color: #1BA0AB;
+}
+.intro__title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 10px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+.intro__box {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+.intro__para {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+.intro__offers {
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+}
+.intro__info {
+    display: flex;
+    justify-content: center;
+}
+.intro {
+    display: flex;
+    justify-content: space-around;
+}
+.intro__section  {
+    position: relative;
+    text-align: left;
+    margin-left: 30px;
+}
+.intro__section h3{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #1BA0AB;
+}
+.intro__section strong {
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+}
+.intro__section p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+.intro__png {
+    width: 200px;
+}
+.intro__info {
+    display: flex;
+    align-items: center;
+    position: relative;
+    
+}
+.intro__info .intro__font{
+    width: 12px;
+    height: 15px;
+    position: absolute;
+    left: 0.4%;
+    right: 9.58%;
+    top: 25.25%;
+    bottom: 8.33%;
+}
+.intro__image {
+    position: absolute;
+    left: 24.25%;
+    right: 0.55%;
+    top: 25.25%;
+    bottom: 9.25%;
+}
+.intro__time {
+    position: absolute;
+    left: 66.25%;
+    right: 20.55%;
+    top: 25.25%;
+    bottom: 9.25%;
+}
+.intro__info .intro__boxes {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 10px;
+    letter-spacing: 0.2px;
+    margin-top: 10px;
+    margin-left: 14px;
+    color: #737373;
+}
+.intro__section .intro__upper {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #737373;
+}
+.intro__section .intro__fox {
+    font-weight: 400;
+    font-size: 14px;
+    /* line-height: 10px; */
+    margin-top: 10px;
+    margin-left: 21px;
+    color: #737373;
+}
+.intro__button {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    border:  1px solid #1BA0AB;
+    background-color: transparent;
+    font-size: bold;
+}
+.intro__lines .intro__veco {
+    position: absolute;
+    align-items: center;
+    width: 7px;
+    height: 9px;
+    left: 47%;
+    right: 50%;
+    top: 74%;
+    bottom: 40%;
+
+}

@@ -1,0 +1,24 @@
+.input {
+    background-color: #f5e2d8;
+    text-align: center;
+    padding-top: 70px;
+    margin-top: 100px;
+}
+.input .input__text {
+    width: 40%;
+    height: 30px;
+    margin-top: 100px;
+    border-radius: 4px;
+    border: none;
+}
+.input .input__title{
+    width: 10%;
+    height: 30px;
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    background-color: #1ba0ab;
+    margin-bottom: 50px;
+}
